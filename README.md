@@ -1,7 +1,7 @@
 # Rube Goldberg Web — Machine inutilement compliquée (demo)
 
 **Description**
-This is a small web demo of a Rube Goldberg machine: a chain of simple animated steps that together produce a silly final action (a virtual "ding!" and confetti). Built with plain HTML, CSS and JavaScript using p5.js for drawing and simple state-machine logic.
+Tu connais la machine de Rube Goldberg ? C'est une machine qui met beaucoup trop d'étapes pour arriver à une conclusion qui est pourtant simple.
 
 **What's included**
 - `index.html` — demo page
